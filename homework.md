@@ -4,7 +4,7 @@
 
 *git init*
 
-*git status*
+2*git status*
 
 *git add*
 
